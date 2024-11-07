@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pawneshshakya.github.io/pawnesh.shakya/",
+  "homepage": "https://pawneshshakya.github.io/pawnesh_kumar/",
   "name": "pawnesh.shakya",
   "version": "0.1.0",
   "private": true,
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
